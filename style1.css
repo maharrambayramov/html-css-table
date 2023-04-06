@@ -1,0 +1,138 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.head {
+    width: 100%;
+    height: 100px;
+    background-color: #109e97;
+}
+
+.page {
+    position: absolute;
+    width: 350px;
+    height: 50px;
+    left: 766px;
+    padding: 23px;
+    font-size: 49px;
+
+}
+
+section {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+}
+
+.left {
+    width: 300px;
+    height: 450px;
+    margin: 102px 125px;
+}
+
+.right {
+    width: 600px;
+    height: 450px;
+
+    margin: 102px 327px;
+}
+
+.head2 {
+    width: 100%;
+    height: 60px;
+    text-align: center;
+}
+
+.table {
+    width: 50%;
+    height: 150px;
+    text-align: left;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+.cls7{
+text-align: center;
+}
+.table td{
+    border-bottom: 1px solid gray;
+    padding-right: 300px;
+}
+
+section {
+    width: 1800px;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    display: flex;
+
+}
+
+.left2 {
+    width: 300px;
+    height: 450px;
+  
+    margin: 102px 125px;
+    display: flex;
+    gap: 15px 24px;
+}
+
+.center {
+    width: 300px;
+    height: 450px;
+   text-align: center;
+    margin: 102px 125px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.right2 {
+    width: 300px;
+    height: 450px;
+ 
+    margin: 102px 125px;
+
+}
+
+.cls1 {
+    font-size: 20px;
+}
+
+.cls2 {
+    font-size: 20px;
+    color: green;
+}
+
+.cls3 {
+    color: red;
+}
+
+.cls4 {
+    font-size: 20px;
+}
+
+.cls5 {
+    font-size: 18px;
+}
+.cls6{
+    width: 100px;
+    height: 30px;
+    background-color: #109e97;
+    border-radius: 4px;
+}
+.page1 {
+    margin-top: 150px;
+}
+
+.last {
+    width: 100%;
+    height: 100px;
+    padding: 38px;
+    font-size: 20px;
+    background-color: #109e97;
+    text-align: center;
+}
